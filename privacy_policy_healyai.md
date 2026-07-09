@@ -75,6 +75,5 @@ We may update this Privacy Policy from time to time in order to reflect changes 
 ## 8. Contact Us
 
 If you have questions or comments about this Privacy Policy, please contact us at:
-**[Your Company Name]**
-[Your Email Address]
-[Your Company Website/Support Link]
+**Healy AI**
+astro.aman.boy@gmail.com
