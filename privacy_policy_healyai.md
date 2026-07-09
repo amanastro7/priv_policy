@@ -1,6 +1,6 @@
 # Privacy Policy for Healy AI
 
-**Effective Date:** 9th Jely 2026
+**Effective Date:** 9th July 2026
 
 Thank you for choosing Healy AI ("we", "us", or "our"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Healy AI mobile application (the "App"). Please read this Privacy Policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
 
