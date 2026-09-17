@@ -1,6 +1,6 @@
 # Privacy Policy for Wizli
 
-**Effective Date:** [Insert Date]
+**Effective Date:** Septermber 17, 2026
 
 Welcome to Wizli! Your privacy and the privacy of our young learners are of the utmost importance to us. This Privacy Policy explains how we collect, use, and protect information when you use the Wizli mobile application (the "App").
 
@@ -35,8 +35,4 @@ We may update our Privacy Policy from time to time. If we make significant chang
 
 ## 7. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-**Email:** [Insert Developer Email Address]
-**Website:** [Insert Developer Website, if applicable]
-
----
-*Disclaimer: This is a template provided for informational purposes and does not constitute legal advice. You should review and adapt this policy with a legal professional to ensure full compliance with the laws applicable in your jurisdiction (such as COPPA in the US or GDPR-K in Europe).*
+**Email:** astro.aman.boy@gmail.com
